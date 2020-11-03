@@ -1,0 +1,2 @@
+# cloud-security
+Cloud security is important for both business and personal users. Everyone wants to know that their information is safe and secure and businesses have legal obligations to keep client data secure, with certain sectors having more stringent rules about data storage.  Security is an essential element of your cloud service and you should always check that your service provider can provide the correct levels of security for your industry. With that,  I created a secure scalable cloud architecture
